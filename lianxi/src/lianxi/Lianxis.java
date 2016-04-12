@@ -153,5 +153,6 @@ public class Lianxis {
 		Lianxis fiveStates = new Lianxis();
 		fiveStates.control();
 		fiveStates.in.close();
+		
 	}
 }
